@@ -1,4 +1,4 @@
-Sure, here's a basic outline for a GitHub README for your IoT project:
+
 
 ---
 
